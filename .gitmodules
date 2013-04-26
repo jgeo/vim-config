@@ -162,3 +162,6 @@
 [submodule "bundle/tagbar"]
 	path = bundle/tagbar
 	url = https://github.com/majutsushi/tagbar.git
+[submodule "bundle/upAndDown"]
+	path = bundle/upAndDown
+	url = https://github.com/vim-scripts/upAndDown.git
