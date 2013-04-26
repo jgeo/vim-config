@@ -165,3 +165,6 @@
 [submodule "bundle/upAndDown"]
 	path = bundle/upAndDown
 	url = https://github.com/vim-scripts/upAndDown.git
+[submodule "bundle/vim-coffee-script"]
+	path = bundle/vim-coffee-script
+	url = https://github.com/kchmck/vim-coffee-script.git
